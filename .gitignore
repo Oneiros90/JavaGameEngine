@@ -1,0 +1,8 @@
+
+dist/
+
+out/
+
+\.idea/
+
+GameEngine\.iml
